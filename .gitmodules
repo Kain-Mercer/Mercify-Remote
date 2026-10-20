@@ -1,0 +1,3 @@
+[submodule "vendor/mercify"]
+	path = vendor/mercify
+	url = https://github.com/Kain-Mercer/Mercify
