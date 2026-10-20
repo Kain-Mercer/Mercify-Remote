@@ -1,5 +1,7 @@
 # Mercify for Android (remote)
 
+Companion to the [Mercify desktop app](https://github.com/Kain-Mercer/Mercify).
+
 Control Mercify on your PC from your phone. See what's playing, play/pause/skip, nudge the volume, like a song, and join a listening lobby — all running on the PC. The phone is a remote: it doesn't play Spotify itself, so there's nothing to set up with Spotify on the phone and no Premium needed.
 
 > Earlier test builds tried to drive the phone's own Spotify through notification access. That fought Spotify's foreground and needed Premium for picking songs, so the app is now a remote for the desktop client instead.
